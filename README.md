@@ -1,0 +1,32 @@
+# Lógica de Predicados — Estrategias de Formalización
+
+![Logic](https://img.shields.io/badge/Lógica_de-Predicados-8E24AA?style=for-the-badge)
+![Formal](https://img.shields.io/badge/Lógica-Computacional-1565C0?style=for-the-badge)
+
+> Estrategias de formalización para la Lógica de Predicados de Primer Orden (LPO): traducción, cuantificadores e inferencia.
+
+## Descripción
+
+Proyecto de **Lógica Computacional** centrado en las estrategias de formalización de enunciados del lenguaje natural al lenguaje formal de la **Lógica de Predicados de Primer Orden (LPO)**. Se trabajan cuantificadores universales y existenciales, predicados unarios/binarios, instanciación universal/existencial y demostración de validez de fórmulas.
+
+## Temas cubiertos
+
+| Tema | Descripción |
+|---|---|
+| Traducción a LPO | Formalización de enunciados naturales con cuantificadores |
+| Cuantificadores | Universal (∀) y existencial (∃), anidados y alternados |
+| Predicados | Unarios, binarios, de igualdad |
+| Reglas de inferencia | Modus Ponens, Modus Tollens, instanciación, generalización |
+| Demostraciones | Validez de argumentos por deducción natural |
+
+## Contenido del repositorio
+
+| Archivo | Descripción |
+|---|---|
+| `*.pdf` | Ejercicios resueltos de formalización en LPO |
+| `*.docx` | Desarrollo del proyecto con fundamentos teóricos |
+
+## Contexto académico
+
+**Asignatura:** Lógica Computacional · **Institución:** Ingeniería Informática
+**Autor:** Alejandro De Mendoza — Ingeniero Informático · Especialista en IA

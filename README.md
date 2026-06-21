@@ -39,6 +39,23 @@ Proyecto de **Lógica Computacional** centrado en las estrategias de formalizaci
 
 ---
 
+## Arquitectura
+
+```mermaid
+flowchart TD
+    A[Logica_De_Predicados_LPO] --> B[Traduccion a LPO]
+    A --> C[Cuantificadores]
+    A --> D[Predicados]
+    A --> E[Reglas de Inferencia]
+    A --> F[Demostraciones de Validez]
+    B --> G[Enunciados Naturales a Lenguaje Formal]
+    C --> H[Universal: para todo x / Existencial: existe x]
+    C --> I[Cuantificadores Anidados y Alternados]
+    D --> J[Unarios / Binarios / Igualdad]
+    E --> K[Modus Ponens / Modus Tollens]
+    E --> L[Instanciacion y Generalizacion]
+```
+
 ## Autor
 
 **Alejandro De Mendoza**  

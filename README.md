@@ -25,20 +25,6 @@ Proyecto de **Lógica Computacional** centrado en las estrategias de formalizaci
 | Reglas de inferencia | Modus Ponens, Modus Tollens, instanciación, generalización |
 | Demostraciones | Validez de argumentos por deducción natural |
 
-## Contenido del repositorio
-
-| Archivo | Descripción |
-|---|---|
-| `*.pdf` | Ejercicios resueltos de formalización en LPO |
-| `*.docx` | Desarrollo del proyecto con fundamentos teóricos |
-
-## Contexto académico
-
-**Asignatura:** Lógica Computacional · **Institución:** Ingeniería Informática
-**Autor:** Alejandro De Mendoza — Ingeniero Informático · Especialista en IA
-
----
-
 ## Arquitectura
 
 ```mermaid
@@ -55,6 +41,20 @@ flowchart TD
     E --> K[Modus Ponens / Modus Tollens]
     E --> L[Instanciacion y Generalizacion]
 ```
+
+## Contenido del repositorio
+
+| Archivo | Descripción |
+|---|---|
+| `*.pdf` | Ejercicios resueltos de formalización en LPO |
+| `*.docx` | Desarrollo del proyecto con fundamentos teóricos |
+
+## Contexto académico
+
+**Asignatura:** Lógica Computacional · **Institución:** Ingeniería Informática
+**Autor:** Alejandro De Mendoza — Ingeniero Informático · Especialista en IA
+
+---
 
 ## Autor
 
